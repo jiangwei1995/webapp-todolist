@@ -13,5 +13,5 @@ ref: [https://github.com/Serverless-Devs/docs/blob/master/docs/en/tool/install.m
 ## 部署函数到云端
 
 ```bash
-s deploy aaa
+s deploy
 ```
